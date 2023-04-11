@@ -1,0 +1,3 @@
+// a nosql scrip to list all databases
+
+show dbs;
