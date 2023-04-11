@@ -1,0 +1,2 @@
+// a script that deltes all docomunts with name="Holberton school"
+db.school.deleteMany({name: "Holberton school"});
