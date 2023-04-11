@@ -1,0 +1,2 @@
+// a mongodb command to list all documents in a school collection
+db.school.find({name: "Holberton school"});
