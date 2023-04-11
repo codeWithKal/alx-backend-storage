@@ -1,0 +1,2 @@
+// a mongodb command to create a db if not exist or simply to switch to it
+use my_db;
